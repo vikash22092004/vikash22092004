@@ -5,7 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vikash22092004&label=Profile%20views&color=0e75b6&style=flat" alt="vikash22092004" /> </p>
 <br>
+- 🌱 I’m currently learning **a Full stack development course**
+
 - 📫 How to reach me **vikash2004.cbe@gmail.com**
+
+- ⚡ Fun fact **I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
