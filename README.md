@@ -25,4 +25,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vikash22092004&show_icons=true&locale=en" alt="vikash22092004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikash22092004&" alt="vikash22092004" /></p>
+[![Leetcode Stats](https://leetcard.jacoblin.cool/user0198yo)](https://leetcode.com/user0198yo)
